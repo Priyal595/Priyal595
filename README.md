@@ -27,7 +27,7 @@ class PriyalSingh:
         self.role = "Computer Science Student & ML Enthusiast"
         self.university = "Jaypee University of Information Technology"
         self.location = "Solan, Himachal Pradesh 🇮🇳"
-        self.cgpa = 9.7  # Out of 10!
+        self.cgpa = 9.5  # Out of 10!
 
     def current_focus(self):
         return [
