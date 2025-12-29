@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyal595&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CGPA-9.7%2F10-brightgreen?style=flat" alt="CGPA" />
+  <img src="https://img.shields.io/badge/CGPA-9.5%2F10-brightgreen?style=flat" alt="CGPA" />
   <img src="https://img.shields.io/badge/Google-WE_Scholar-4285F4?style=flat&logo=google" alt="Google Scholar" />
 </p>
 
