@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hi+There!+%F0%9F%91%8B+I'm+Priyal+Singh;Computer+Science+Student+%7C+ML+Enthusiast;9.7+CGPA+%7C+Google+WE+Scholar+%E2%AD%90;Building+the+Future+of+Tech!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=940&lines=Hi+There!+%F0%9F%91%8B+I'm+Priyal+Singh;Computer+Science+Student+%7C+ML+Enthusiast;Google+WE+Scholar+%E2%AD%90;Building+the+Future+of+Tech!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -184,7 +184,7 @@ class PriyalSingh:
 
 | Degree | Institution | Duration | Performance |
 |--------|-------------|----------|-------------|
-| **B.Tech - Computer Science** | Jaypee University of Information Technology | July 2023 - Present | **CGPA: 9.7/10** ⭐ |
+| **B.Tech - Computer Science** | Jaypee University of Information Technology | July 2023 - Present | **CGPA: 9.5/10** ⭐ |
 | **Class XII (CBSE)** | DIPS Maqsudan, Jalandhar | 2022 - 2023 | **95.4%** |
 | **Class X (CBSE)** | DIPS Maqsudan, Jalandhar | 2020 - 2021 | **94.6%** |
 
@@ -250,7 +250,7 @@ class PriyalSingh:
 ## 📈 What Drives Me
 
 <p align="center">
-<i>"Combining technical excellence with social impact - from achieving 9.7 CGPA to teaching 30+ underprivileged children,<br>
+<i>"Combining technical excellence with social impact - from achieving 9.5 CGPA to teaching 30+ underprivileged children,<br>
 from building quantum-resistant encryption to empowering women in tech through leadership."</i>
 </p>
 
@@ -260,8 +260,8 @@ from building quantum-resistant encryption to empowering women in tech through l
 
 | Metric | Achievement |
 |--------|-------------|
-| 🎓 Academic Excellence | 9.7 CGPA (Top of class) |
-| 🏆 Scholarships Won | 3 Major (Uber, Google, SheFi) |
+| 🎓 Academic Excellence | 9.5 CGPA|
+| 🏆 Scholarships Won | WE Cohort-6 (Google) |
 | 👥 Students Mentored | 30+ underprivileged children |
 | 💻 Tech Sessions Conducted | 10+ sessions for freshers |
 | 🚀 Concurrent Users Served | 100+ (Qrypt project) |
