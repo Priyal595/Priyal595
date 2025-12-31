@@ -3,17 +3,27 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyal-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://gitlab.com/priyal595"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://github.com/Priyal595"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://leetcode.com/priyalrajput595"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="mailto:priyalrajput595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/priyal-singh595/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/priyal_595">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://github.com/Priyal595">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/priyal_595/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:priyalrajput595@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyal595&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CGPA-9.5%2F10-brightgreen?style=flat" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Google-WE_Scholar-4285F4?style=flat&logo=google" alt="Google Scholar" />
+  <img src="https://komarev.com/ghpvc/?username=Priyal595&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://img.shields.io/badge/CGPA-9.5%2F10-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Google-WE_Scholar-4285F4?style=flat&logo=google" />
 </p>
 
 ---
@@ -78,7 +88,7 @@ class PriyalSingh:
 
 ### 🔐 Qrypt - Post-Quantum Cryptography Platform
 
-[![GitHub](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Priyal595/Qrypt)
+[![GitLab](https://img.shields.io/badge/View_Project-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Qrypt)
 ![Security](https://img.shields.io/badge/Security-99%25-success?style=for-the-badge)
 ![Users](https://img.shields.io/badge/Concurrent_Users-100%2B-blue?style=for-the-badge)
 
@@ -94,7 +104,7 @@ class PriyalSingh:
 
 ### 📈 Candlestick Pattern Detection System
 
-[![GitHub](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Priyal595/Candlestick-Detection)
+[![GitLab](https://img.shields.io/badge/View_Project-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/priyal_595/candlestick_detection)
 ![Accuracy](https://img.shields.io/badge/Accuracy-55%25-orange?style=for-the-badge)
 ![Engagement](https://img.shields.io/badge/User_Engagement-↑30%25-brightgreen?style=for-the-badge)
 
@@ -118,8 +128,6 @@ class PriyalSingh:
 - 📱 Bridging the gap between farmers and corporate buyers
 
 </div>
-
----
 
 ## 💻 Tech Stack
 
@@ -276,16 +284,16 @@ from building quantum-resistant encryption to empowering women in tech through l
 <p align="center">
   I'm passionate about leveraging technology for social good and always open to collaboration!
   <br><br>
-  <a href="https://www.linkedin.com/in/priyal-singh">
+  <a href="https://www.linkedin.com/in/priyal-singh595/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:priyalrajput595@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/priyalrajput595">
+  <a href="https://leetcode.com/u/priyal_595/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://gitlab.com/priyal595">
+  <a href="https://gitlab.com/priyal_595">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
 </p>
